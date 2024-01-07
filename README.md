@@ -8,7 +8,7 @@ To analyze the data, Pyspark and SparksQL are used.
 
 The data is a sample dataset available in a Data Lake, this is just for practice purposes. 
 
-If you need help on how to ingest a dataframe: Check out Microsoft's Official tutorials, they are built well and cover all concepts.
+If you need help on how to ingest a dataframe: Check out Microsoft's Official tutorials, they are built well and cover all concepts or use the below link.
 
 [UseApacheSpark](https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse)
 
